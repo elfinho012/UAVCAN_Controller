@@ -1,13 +1,11 @@
 User/main.o: ../User/main.c \
- C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Debug/debug.h \
+ C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_can.h \
  C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x.h \
  C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Core/core_riscv.h \
  C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\User/system_ch32v20x.h \
  C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\User/ch32v20x_conf.h \
  C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_adc.h \
- C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x.h \
  C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_bkp.h \
- C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_can.h \
  C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_crc.h \
  C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_dbgmcu.h \
  C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_dma.h \
@@ -24,10 +22,11 @@ User/main.o: ../User/main.c \
  C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_usart.h \
  C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_wwdg.h \
  C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\User/ch32v20x_it.h \
- C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_misc.h \
- ../User/UAVCAN4PX4.h
+ C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Debug/debug.h \
+ C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x.h \
+ C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_misc.h
 
-C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Debug/debug.h:
+C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_can.h:
 
 C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x.h:
 
@@ -39,11 +38,7 @@ C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\User/ch32v20x_conf.h:
 
 C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_adc.h:
 
-C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x.h:
-
 C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_bkp.h:
-
-C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_can.h:
 
 C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_crc.h:
 
@@ -77,6 +72,8 @@ C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v2
 
 C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\User/ch32v20x_it.h:
 
-C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_misc.h:
+C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Debug/debug.h:
 
-../User/UAVCAN4PX4.h:
+C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x.h:
+
+C:\Users\roman\Desktop\UAVCAN_Controller\UAVCAN_Controller\Peripheral\inc/ch32v20x_misc.h:
